@@ -12,4 +12,8 @@ public class Main {
         System.out.println("method-2");
     }
     
+    public int method3() {
+        return 1;
+    }
+    
 }
