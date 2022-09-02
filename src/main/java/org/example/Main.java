@@ -14,4 +14,8 @@ public class Main {
         return 1;
     }
     
+    public int method4() {
+        return 1;
+    }
+    
 }
