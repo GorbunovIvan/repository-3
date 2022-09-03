@@ -18,4 +18,7 @@ public class Main {
         return 1;
     }
     
+    public static void method5() {
+        System.out.println("method 5");
+    }
 }
