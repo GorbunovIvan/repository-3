@@ -21,4 +21,8 @@ public class Main {
     public static void method5() {
         System.out.println("method 5");
     }
+    
+    public static void madeByTestBranch() {
+        System.out.println("method is made by test-branch");
+    }
 }
